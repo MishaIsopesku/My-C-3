@@ -1,0 +1,15 @@
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\bin\Debug\net6.0\Lab3ex1.exe
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\bin\Debug\net6.0\Lab3ex1.deps.json
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\bin\Debug\net6.0\Lab3ex1.runtimeconfig.json
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\bin\Debug\net6.0\Lab3ex1.dll
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\bin\Debug\net6.0\Lab3ex1.pdb
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\Lab3ex1.csproj.AssemblyReference.cache
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\Lab3ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\Lab3ex1.AssemblyInfoInputs.cache
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\Lab3ex1.AssemblyInfo.cs
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\Lab3ex1.csproj.CoreCompileInputs.cache
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\Lab3ex1.dll
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\refint\Lab3ex1.dll
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\Lab3ex1.pdb
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\Lab3ex1.genruntimeconfig.cache
+C:\Users\Михайло\source\repos\Lab3ex1\Lab3ex1\obj\Debug\net6.0\ref\Lab3ex1.dll
